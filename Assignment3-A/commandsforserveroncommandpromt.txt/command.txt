@@ -1,0 +1,5 @@
+// for create server
+npm init
+npm install express --save
+//for start server
+node index.js
